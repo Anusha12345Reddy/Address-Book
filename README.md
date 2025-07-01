@@ -1,3 +1,5 @@
+# Address-Book
+
 📘 **Address Book Project – Explanation**
 
 The Address Book is a command-line based application built entirely in the C language, designed to manage contact information like names, phone numbers, and email addresses. The core objective of this project was to create a simple, menu-driven utility that allows a user to add, view, search, edit, and delete contact records, with all data being persistently stored using file handling in C.
